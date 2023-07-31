@@ -1,0 +1,112 @@
+body{
+    background-color: aliceblue;
+}
+
+div{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: cadetblue;
+    color: white;
+    font-size: 30px;
+    display: flex;
+}
+
+nav{
+    background-color: cadetblue;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.hover:hover{
+    font-size: 33px;
+}
+
+#bio{
+    background-color: aliceblue;
+    color: gray;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+    margin-left: 230px;
+    margin-right: 200px;
+}
+
+#orig_and_val, #interests, #goals, #skills{
+    background-color: aliceblue;
+    color: gray;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 150px;
+}
+
+#sc{
+    width: 500px;
+    height: 500px;
+    margin-left: 150px;
+}
+
+#image{
+    height: 700px;
+    width: 500px;
+    margin-left: 280px;
+}
+
+.heading{
+    color: gray;
+    background-color: aliceblue;
+    flex-direction: row;
+}
+
+#heading2{
+    background-color: aliceblue;
+    color: gray;
+    flex-direction: row;
+}
+
+#chem{
+    width: 1050px;
+    margin-left: 200px;
+}
+
+#sch{
+    margin-top: 250px;
+}
+
+h4{
+    font-size: 30px;
+}
+
+#goals{
+    font-size: 30px;
+    margin-top: 175px;
+}
+
+p{
+    font-size: 25px;
+}
+
+#int{
+    margin-top: 150px;
+    margin-left: 125px;
+}
+#vgc{
+    margin-left: 500px;
+}
+
+#skills{
+    font-size: 30px;
+    margin-top: 175px;
+}
+
+#skl{
+    width: 400px;
+    height:400px;
+    margin-left: 380px;
+}
+
+#ski{
+    padding: 125px;
+    margin-left: 25px;
+}
