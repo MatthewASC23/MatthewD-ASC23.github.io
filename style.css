@@ -31,7 +31,7 @@ nav{
     margin-right: 200px;
 }
 
-#orig_and_val, #interests, #goals, #skills{
+#orig_and_val, #interests, #goals, #skills, #int-head{
     background-color: aliceblue;
     color: gray;
     font-size: 25px;
@@ -110,3 +110,9 @@ p{
     padding: 125px;
     margin-left: 25px;
 }
+
+/* Week 4 milestone addition */
+#dropdown{
+    margin-top: 100px;
+}
+
