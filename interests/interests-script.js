@@ -12,7 +12,7 @@ drop.onchange = function(event){
     }
 
     if(option == 'sports'){
-
+        lesiure.src = ""
         desc.innerHTML = 'I try to stay at least somewhat physically active day to day, which i do in the form of playing sports with my friends. I play most sports casually, but recently I have been dipping my toes in competitive swimming'
     }
 }
